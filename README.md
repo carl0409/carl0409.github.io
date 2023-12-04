@@ -5,7 +5,9 @@ Gian Carlo A. Gianan
 
 Tae kwon do is characterized by the extensive use of high standing and jump kicks as well as punches and is practiced for sport, self-defense, and spiritual development. Training in tae kwon do is carried out by learning individual techniques of kicking, punching, and blocking, which are practiced in combined series of techniques in traditional sets known as *hyung*. (Proficiency in the graded series of *hyung* determines rank in the lower grades.) Students also practice basic sparring combinations (*id-bo tueryon*, “one-step sparring”); these are short, set sequences of attack and counter practiced between partners, after which the students may practice free sparring as opponents. In sparring, blows are stopped just short of contact. Tae kwon do is practiced as a sport by awarding points to correctly executed techniques during free sparring or by judging the quality of performed hyung. Tae kwon do became an Olympic medal sport at the 2000 Sydney Games. See also martial art.
 
+
 ![alt text](https://github.com/carl0409/carl0409.github.io/assets/150984502/27138dd3-26d7-4dd1-a0d4-3394ba3a8bd8)
+
 
 Poomsae comprises sets of pre-arranged defense and attacking movements that gradually become more complex as you progress your development in Taekwondo. Generally there will be one new Poomsae to learn and master for each belt level.
 
